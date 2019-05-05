@@ -1,0 +1,19 @@
+{
+  "name": "madtom",
+  "version": "1.0.0",
+  "description": "Minimalistic TCP/TLS server framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "library",
+    "framework",
+    "madtom",
+    "tcp",
+    "tls",
+    "api"
+  ],
+  "author": "Sam Yong <samyonggit@gmail.com>",
+  "license": "MIT"
+}
